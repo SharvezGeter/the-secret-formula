@@ -1,0 +1,26 @@
+.h2 {
+    color: rgb(250, 0, 0);
+    animation-name: inherit;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    
+}
+
+#sandwhichForm {
+    background-color: aqua;
+    display: grid;
+    margin: 24px;
+    margin-left: 1000px;
+}
+#haircutForm {
+    background-color: rgb(242, 255, 0);
+    display: ruby-base-container;
+    flex-wrap: wrap-reverse;
+}
+#CreateAccountForm {
+    background-color: rgb(248, 117, 255);
+    display: flow-root;
+}
+
+#body {
+    background-color: black;
+}
